@@ -34,8 +34,4 @@ Here is a link to the heroku deployment: [heroku](https://tranquil-inlet-53715.h
 This is an image of the deployed website:
 
 ![alt expected website](https://github.com/jpinto2/Text-Editor/blob/main/Screenshot%20(33).png)
-
-## Video Link
-
-[videolink](https://drive.google.com/file/d/1uzlhB0wbfdCZAQBcsiyo0KkXr2AiCWMS/view).
   
